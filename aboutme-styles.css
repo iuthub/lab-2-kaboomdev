@@ -1,0 +1,23 @@
+a {
+  color: red;
+  text-decoration: none;
+  
+}
+a:hover {
+  text-decoration: underline;
+}
+p {
+  color: gray;
+}
+p::first-letter {
+  font-size: 1.5em;
+}
+
+h1 {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h3 {
+  font-family: Arial;
+}
